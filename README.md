@@ -1,3 +1,3 @@
 # MDP Notebook
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tianleimin/bindertest/HEAD?urlpath=/tree/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tianleimin/TUD_Trial_Lecture/HEAD?urlpath=/tree/)
